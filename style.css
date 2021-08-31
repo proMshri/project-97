@@ -1,0 +1,43 @@
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+
+#form{
+    background-color: red;
+
+}
+
+body{
+    background-color: yellow;
+}
+
+#mlp{
+    width: 150px;
+    border-radius: 100px;
+}
+
+#mlp_youtube{
+    width: 200px;
+}
+
+#dumbo_youtube{
+    width: 200px;
+}
+
+#dumbo_diesney{
+    width: 200px;
+}
+#lion{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#lion_youtube{
+    width: 200px;
+}
+
+#lion_disney{
+    width: 200px;
+}
